@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joe
+- 👋 Hi, I’m @Joel
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on other coders that knows Python and Javascript.
+-  I’m looking to collaborate on other coders that knows Python and Javascript.
 - 📫 How to reach me- here
   
 - ⚡ Fun fact: I like learning and listening to Lo-fi if while drinking coffee
